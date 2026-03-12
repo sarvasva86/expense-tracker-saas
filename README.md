@@ -1,38 +1,37 @@
 # SaaS Expense Tracker with Analytics
 
-A full-stack SaaS expense tracker where users can manage expenses and view analytics dashboards.
+A full-stack expense tracking application where users can manage expenses and view spending analytics through charts.
 
 ## Features
 
-- User authentication (JWT)
-- Add / delete expenses
-- Expense dashboard
-- Monthly analytics charts
-- Category breakdown charts
-- Protected API routes
+- User authentication with JWT
+- Add and delete expenses
+- Dashboard to manage expenses
+- Monthly analytics chart
+- Category breakdown chart
+- Secure API routes
 
 ## Tech Stack
 
-Frontend:
+Frontend
 - React
 - Vite
 - Axios
 - Recharts
 
-Backend:
+Backend
 - Node.js
 - Express
 - MongoDB
 - Mongoose
 - JWT Authentication
 
-## Screenshots
+## Project Structure
 
-Dashboard:
-(Add screenshot later)
-
-Analytics:
-(Add screenshot later)
+expense-tracker-saas
+├── backend
+├── frontend
+└── README.md
 
 ## Installation
 
@@ -51,4 +50,4 @@ npm run dev
 - Edit expenses
 - Date filters
 - Export to Excel
-- SaaS subscription system
+- Deployment with cloud hosting
