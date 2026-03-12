@@ -28,11 +28,12 @@ Backend:
 
 ## Screenshots
 
-Dashboard:
-(Add screenshot later)
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-Analytics:
-(Add screenshot later)
+### Analytics
+![Analytics](screenshots/analytics.png)
+
 
 ## Installation
 
